@@ -1,0 +1,18 @@
+﻿  Error.cpp
+  IT.cpp
+  In.cpp
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\In.cpp(31,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\In.cpp(75,12): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW_IN"
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\In.cpp(15,17): warning C4101: symbol: неиспользованная локальная переменная
+  LA.cpp
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\LA.cpp(235,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\LA.cpp(268,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\LA.cpp(423,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\LA.cpp(430,23): warning C4018: <: несоответствие типов со знаком и без знака
+  LT.cpp
+  MFST.cpp
+D:\3 семестр\KPO\lab18\SE_lab17\SE_lab17\MFST.cpp(310,72): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  SE_lab17.cpp
+  Создание кода...
+  SE_lab17.vcxproj -> D:\3 семестр\KPO\lab18\SE_lab17\Debug\SE_lab17.exe
