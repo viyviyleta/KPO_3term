@@ -1,0 +1,72 @@
+Microsoft (R) Macro Assembler (x64) Version 14.41.34120.0   11/10/24 17:35:30
+asm03.asm						     Page 1 - 1
+
+
+				.586
+asm03.asm(1) : error A2008:syntax error : .
+				.MODEL FLAT, STDCALL
+asm03.asm(2) : error A2008:syntax error : .
+				includelib kernel32.lib
+
+				ExitProcess PROTO : DWORD
+
+				.stack 4096
+asm03.asm(7) : error A2008:syntax error : .
+
+ 00000000			.const
+
+ 00000000			.data
+ 00000000 10 20 30 40		myBytes BYTE 10h, 20h, 30h, 40h
+ 00000004 008A 003B 0044	myWords WORD 8Ah, 3Bh, 44h, 5Fh, 99h
+	   005F 0099
+ 0000000E 00000001		myDoubles DWORD 1, 2, 3, 4, 5, 6
+	   00000002
+	   00000003
+	   00000004
+	   00000005
+	   00000006
+ 00000026 0000000E R		myPointer DWORD myDoubles
+
+ 00000000			.code
+ 00000000			main PROC
+ 00000000  BE 00000004 R		mov ESI, OFFSET myWords
+ 00000005  67& 66| 8B 06		mov AX, [ESI + 0]
+ 00000009  67& 66| 8B 5E		mov BX, [ESI + 2]
+	   02
+ 0000000E  6A 00			push 0
+ 00000010  E8 00000000 E		call ExitProcess
+ 00000015			main ENDP
+
+				end main
+Microsoft (R) Macro Assembler (x64) Version 14.41.34120.0   11/10/24 17:35:30
+asm03.asm						     Symbols 2 - 1
+
+
+
+
+Segments:
+
+                N a m e                  Length   Align   Class
+
+CONST  . . . . . . . . . . . . .	 00000000 16	  'CONST'	 ReadOnly
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P 	 00000000 Length= 00000000 External
+main . . . . . . . . . . . . . .	P 	 00000000 _TEXT	Length= 00000015 Public
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+myBytes  . . . . . . . . . . . .	Byte	 00000000 _DATA	
+myDoubles  . . . . . . . . . . .	DWord	 0000000E _DATA	
+myPointer  . . . . . . . . . . .	DWord	 00000026 _DATA	
+myWords  . . . . . . . . . . . .	Word	 00000004 _DATA	
+
+	   0 Warnings
+	   5 Errors
