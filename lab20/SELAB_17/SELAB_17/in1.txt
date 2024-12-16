@@ -1,0 +1,11 @@
+declare integer r;
+r = r * r;
+
+declare string function t(string h, string j, string k);
+
+main{
+	r = r * r;
+	declare string t;
+	t = 'func';
+	return 0;	
+};
