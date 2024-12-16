@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC65D8A8-BD2C-45B8-BA04-C679ED414E2D}|asm01e\\asm01e.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01e\\asm01e.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC65D8A8-BD2C-45B8-BA04-C679ED414E2D}|asm01e\\asm01e.vcxproj|solutionrelative:asm01e\\asm01e.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7759272E-C22F-4D99-9590-36477B4A568A}|StaticLib2\\StaticLib2.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib2\\StaticLib2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7759272E-C22F-4D99-9590-36477B4A568A}|StaticLib2\\StaticLib2.vcxproj|solutionrelative:StaticLib2\\StaticLib2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92088F99-10C9-4B9E-A531-4CAC26979415}|asm5\\asm5.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm5\\asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92088F99-10C9-4B9E-A531-4CAC26979415}|asm5\\asm5.vcxproj|solutionrelative:asm5\\asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915F0CDA-EBF3-4696-BB45-F6109202E2F9}|asm01c\\asm01c.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01c\\asm01c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{915F0CDA-EBF3-4696-BB45-F6109202E2F9}|asm01c\\asm01c.vcxproj|solutionrelative:asm01c\\asm01c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAC761B-5B46-4390-8AF3-5A939044B1F8}|asm0b\\asm0b.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm0b\\asm0b.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FAC761B-5B46-4390-8AF3-5A939044B1F8}|asm0b\\asm0b.vcxproj|solutionrelative:asm0b\\asm0b.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2715B-51FA-475F-B984-10A14B80DFBD}|StaticLib1\\StaticLib1.vcxproj|C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib1\\lib.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DBD2715B-51FA-475F-B984-10A14B80DFBD}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\lib.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asm01e.asm",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01e\\asm01e.asm",
+              "RelativeDocumentMoniker": "asm01e\\asm01e.asm",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01e\\asm01e.asm",
+              "RelativeToolTip": "asm01e\\asm01e.asm",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T19:23:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticLib2.cpp",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib2\\StaticLib2.cpp",
+              "RelativeDocumentMoniker": "StaticLib2\\StaticLib2.cpp",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib2\\StaticLib2.cpp",
+              "RelativeToolTip": "StaticLib2\\StaticLib2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T19:17:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "asm01c.cpp",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01c\\asm01c.cpp",
+              "RelativeDocumentMoniker": "asm01c\\asm01c.cpp",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm01c\\asm01c.cpp",
+              "RelativeToolTip": "asm01c\\asm01c.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T19:13:33.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "asm0b.asm",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm0b\\asm0b.asm",
+              "RelativeDocumentMoniker": "asm0b\\asm0b.asm",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm0b\\asm0b.asm",
+              "RelativeToolTip": "asm0b\\asm0b.asm",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T18:44:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lib.asm",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib1\\lib.asm",
+              "RelativeDocumentMoniker": "StaticLib1\\lib.asm",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\StaticLib1\\lib.asm",
+              "RelativeToolTip": "StaticLib1\\lib.asm",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T18:41:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "asm.asm",
+              "DocumentMoniker": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm5\\asm.asm",
+              "RelativeDocumentMoniker": "asm5\\asm.asm",
+              "ToolTip": "C:\\\u0424\u0418\u0422\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u043F\u043E \u041A\u041F\u041E\\asm5\\asm5\\asm5\\asm.asm",
+              "RelativeToolTip": "asm5\\asm.asm",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T18:15:43.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

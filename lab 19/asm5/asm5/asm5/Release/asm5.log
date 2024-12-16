@@ -1,0 +1,3 @@
+﻿  Assembling asm.asm...
+asm.obj : error LNK2001: неразрешенный внешний символ _getmin.
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КПО\asm5\asm5\Release\asm5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

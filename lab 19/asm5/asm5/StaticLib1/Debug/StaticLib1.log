@@ -1,0 +1,4 @@
+﻿  Assembling lib.asm...
+lib.asm(105): error A2008: syntax error : size
+lib.asm(123): fatal error A1010: unmatched block nesting : printconsole
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\lib.obj" /W3 /errorReport:prompt  /Talib.asm" с кодом "1".
